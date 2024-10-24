@@ -1,6 +1,10 @@
 # AI-Generated-Voice-Replacement
-This is a tool to replace audio from a video with an AI genearted voice.
-It uses Streanlit for it's user interface, Amazon services such S3 Bucket, Amazon Transcribe and Polly for storage, audio transcription and AI voice generation and lastly Azure's OpenAI for chat gpt model for correcting any error in the audio such as filler words and grammatical mistakes.
+
+# --Description--
+This tool replaces audio from a video with an AI-generated voice.
+It uses Streamlit for its user interface, Amazon services such as S3 Bucket, Amazon Transcribe, and Polly for storage, audio transcription, and AI voice generation, and lastly Azure's OpenAI for chat GPT model for correcting any error in the audio such as filler words and grammatical mistakes.
+
+# --Screenshots--
 ![1](https://github.com/user-attachments/assets/8de1f280-ef7f-4586-8912-28e01aac2866)
 ![2](https://github.com/user-attachments/assets/0587c06e-ccfa-4451-96fe-3d9ce503defb)
 ![3](https://github.com/user-attachments/assets/31df4db5-7da4-402c-9eb1-fe416949c707)
