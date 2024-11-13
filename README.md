@@ -17,3 +17,6 @@ This project is a Python Proof of Concept (PoC) that automates the process of re
 >![4](https://github.com/user-attachments/assets/4ade0432-ddf3-421a-88dc-4bc09455b653)
 
 This project showcases the integration of cloud-based AI services with Python to simplify complex audio editing tasks.
+
+![9a7b0q](https://github.com/user-attachments/assets/aba12dc5-01ab-45a4-b867-05c776c732e3)
+
